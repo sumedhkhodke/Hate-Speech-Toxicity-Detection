@@ -1,5 +1,7 @@
 # Hate Speech/Toxicity Detection in Tweets
 
+This repository is part of the project coursework for EAS-508 at UB for the MS DS program.
+
 Social media has not only become an integral part of our
 lives but is also a medium to express our thoughts. Twitter, being
 most widely used, is host to massive and unfiltered feed of tweets
